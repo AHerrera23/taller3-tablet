@@ -37,7 +37,8 @@ body {
     padding-top: 5%;
     margin-top: 2%;
     grid-column: 2/4;
-    grid-row: 3/5;
+    height: 70%;
+    grid-row: 3/6;
     border-radius: 20px;
     color: #f6f6f6;
     display: flex;
@@ -68,13 +69,14 @@ body {
     padding-left: 10%;
     padding-top: 5%;
     margin-top: 2%;
+    height: 70%;
     grid-column: 2/4;
-    grid-row: 3/5;
+    grid-row: 3/6;
     border-radius: 20px;
     color: #f6f6f6;
     display: none;
     flex-direction: column;
-    gap: 20px;
+    gap: 10px;
 }
 .info{
     display: flex;
