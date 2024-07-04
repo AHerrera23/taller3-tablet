@@ -63,3 +63,31 @@ body {
 .off{
     display: none;
 }
+.item2{
+    background-color:#0064f94b;
+    padding-left: 10%;
+    padding-top: 5%;
+    margin-top: 2%;
+    grid-column: 2/4;
+    grid-row: 3/5;
+    border-radius: 20px;
+    color: #f6f6f6;
+    display: none;
+    flex-direction: column;
+    gap: 20px;
+}
+.info{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
+.item2 img{
+    width: 200px;
+}
+.circulo{
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+    background-color: #00c721;
+}
